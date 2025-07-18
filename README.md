@@ -1,4 +1,4 @@
-# Trabalho Final - FIAP - 10DTSR - Machine Learning Engineering - MLOPS
+# Trabalho Final - FIAP - 10DTSR - MLOPS
 
 Ana Cristina Lourenço Maria: RM359310
 
